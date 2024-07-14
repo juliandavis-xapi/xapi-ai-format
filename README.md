@@ -24,8 +24,9 @@ This project provides a web interface for querying xAPI (Experience API) stateme
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/xapi-query-tool.git
-   cd xapi-query-tool
+   git clone https://github.com/juliandavis-xapi/xapi-ai-format.git
+   cd xapi-ai-format
+
    ```
 
 2. Open the `index.html` file in your web browser.
@@ -47,9 +48,6 @@ This project provides a web interface for querying xAPI (Experience API) stateme
 - `js/app.js`: JavaScript file containing the main logic for fetching and processing xAPI statements.
 - `js/xapiwrapper.min.js`: xAPI Wrapper library for interacting with the LRS.
 
-### Example
-
-![Example](screenshot.png)
 
 ### Dependencies
 
@@ -66,9 +64,6 @@ This project is open source and available under the MIT License.
 
 Created by [Julian Davis](https://xapi.com.au)
 
-### Contact
-
-For any questions or inquiries, please contact [Julian Davis](mailto:julian.davis@xapi.com.au).
 
 ### Acknowledgements
 
