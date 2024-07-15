@@ -1,7 +1,7 @@
 
 # xAPI Query to CSV / JSONL / xAPI JSON for AI
 
-This project provides a web interface for querying xAPI (Experience API) statements from a Learning Record Store (LRS) and exporting the data in CSV, JSONL, or raw xAPI JSON formats. The tool is designed to help you fetch, process, and download xAPI statements easily.
+This project provides a web interface for querying xAPI (Experience API) statements from a Learning Record Store (LRS) and exporting the data in CSV, JSONL, or raw xAPI JSON formats. The tool is designed to help you fetch, process, and download xAPI statements easily and submit the file to an AI LLM or customGPT.
 
 ## Features
 
